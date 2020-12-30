@@ -6,7 +6,3 @@ function myModule() {
     return 'Bye';
   }
 }
-
-module.exports = myModule;
-
-var myModule = require('myModule');
